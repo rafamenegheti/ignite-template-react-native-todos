@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#8257E5',
     justifyContent: 'space-between',
     alignItems: 'center',
-    flexDirection: 'row'
+    flexDirection: 'row',
   },
   tasks: {
     alignItems: 'center',
